@@ -1,7 +1,7 @@
 # Call-Quality-Data-Analysis
 Analysis of the call quality dataset found on data.gov.in for CS F415: Data Mining
 
-## File descriptions
+## Folder descriptions
 1. code - contains all the .py and .ipynb files
 2. data - contains the consolidated dataset
 3. plots - contains visualizations made in Python and R
